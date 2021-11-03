@@ -3,3 +3,13 @@
     height: 60px;
     border-radius: 50%;
 }
+
+.img-lg{
+    width: 120px;
+    height: 150px;
+}
+
+.error{
+    font-weight: unset !important;
+    color: #dc3545 !important;
+}
