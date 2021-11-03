@@ -9,3 +9,4 @@
 5. data-rule html 5: https://johnnycode.com/2014/03/27/using-jquery-validate-plugin-html5-data-attribute-rules/
 6. Notify js : https://notifyjs.jpillora.com/
 7. confirm bootbox js: http://bootboxjs.com/examples.html
+8. data tables: https://datatables.net/examples/basic_init/zero_configuration.html

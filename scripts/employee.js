@@ -37,6 +37,7 @@ employee.showEmployee = function () {
                     </tr>
                 `);
             })
+            $('#tbEmployee').DataTable();
         }
     });
 }
